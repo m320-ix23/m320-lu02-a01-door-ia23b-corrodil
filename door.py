@@ -112,7 +112,7 @@ nur für die korrekte Übersetzung und Ausführung
 
 class DoorLock:
     """
-    dummy Klasse, damit in der Klasse Tuere kein Fehler auftritt
+    dummy Klasse, damit in der Klasse  kein Fehler auftritt
     """
 
     def __init__(self):
